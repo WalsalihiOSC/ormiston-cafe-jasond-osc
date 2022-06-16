@@ -1,0 +1,62 @@
+{
+	"Cheese Burger": {
+		"name": "Cheese Burger",
+		"price": "5",
+		"image": "images/burger.png"
+	},
+	"Sandwich 1": {
+		"name": "Sandwich 1",
+		"price": "4",
+		"image": "images/sandwich_1.png"
+	},
+	"Sandwich 2": {
+		"name": "Sandwich 2",
+		"price": "4",
+		"image": "images/sandwich_2.png"
+	},
+	"Curry": {
+		"name": "Curry",
+		"price": "5",
+		"image": "images/curry.png"
+	},
+	"Fish Fingers": {
+		"name": "Fish Fingers",
+		"price": "3",
+		"image": "images/fish_fingers.png"
+	},
+	"Fries": {
+		"name": "Fries",
+		"price": "3",
+		"image": "images/fries.png"
+	},
+	"Pasta": {
+		"name": "Pasta",
+		"price": "5",
+		"image": "images/pasta.png"
+	},
+	"Taco": {
+		"name": "Taco",
+		"price": "4",
+		"image": "images/taco.png"
+	},
+	"Hot Dog": {
+		"name": "Hot Dog",
+		"price": "4",
+		"image": "images/hot_dog.png"
+	},
+	"Nuggets": {
+		"name": "Nuggets",
+		"price": "3",
+		"image": "images/nuggets.png"
+	},
+	"Teriyaki": {
+		"name": "Teriyaki",
+		"price": "5",
+		"image": "images/teriyaki.png"
+	},
+	"Ice Cream": {
+		"name": "Ice Cream",
+		"price": "2",
+		"image": "images/ice_cream.png"
+	}
+}
